@@ -75,5 +75,3 @@ Kaggle veya Colab ortamında çalıştırmak daha rahat olur; çünkü veri seti
 ## Notlar
 
 Veri seti dosyaları repoya eklenmedi. Veri seti büyük olduğu için notebook içinde indirme ve yol bulma mantığı kullanıldı.
-
-Bu proje final sınavı şablonundan temizlenmiş, GitHub'da paylaşılabilir hale getirilmiş sürümdür.
